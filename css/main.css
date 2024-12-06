@@ -54,7 +54,7 @@ h6 {
 
 #hero { 
     height: 600px;
-    background: url("../images/FR.png");
+    background: url("./images/FR.png");
     background-size: cover;
 }
 
